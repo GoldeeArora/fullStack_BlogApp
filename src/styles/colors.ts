@@ -1,0 +1,16 @@
+export const COLORS = {
+    appColor: 'goldenrod',
+    // appColor: 'coral',
+    white: 'white',
+    black: 'black',
+    gray: 'gray',
+    whitesmoke: 'slategray', 
+    goldenrod: 'goldenrod', 
+    lightyellow: '#917529', 
+    lightgreen: '#5e705c',
+    green: '#13cf02',
+    lightred: '#7d6161',
+    red: '#cc3131',
+    darkblue: '#423ED0',
+    lightblue: '#ADD8E6'
+}
